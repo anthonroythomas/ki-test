@@ -19,7 +19,7 @@ Alternatively download cypress from here: https://www.cypress.io/install
 
 ## Run the Test
 
-Open the Cypress, or run from the terminal
+Open Cypress, or run from the terminal
 
 terminal:
 npx cypress open
